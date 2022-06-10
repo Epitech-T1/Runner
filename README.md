@@ -12,7 +12,7 @@ It's the second graphical project in the first year
 
 ## Usage
 
-./my_runner map/map1.txt
+./my_runner maps/map1.txt
 
 ## Example
 
