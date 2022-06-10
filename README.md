@@ -16,10 +16,6 @@ It's the second graphical project in the first year
 
 ## Example
 
-Menu
-
  <img width="620" alt="Capture d’écran 2022-06-10 à 15 42 41" src="https://user-images.githubusercontent.com/107209049/173078747-f27b7860-b298-492a-878e-a5a8cdd39f94.png">
-
-Jeu
 
 <img width="763" alt="Capture d’écran 2022-06-10 à 15 43 04" src="https://user-images.githubusercontent.com/107209049/173078816-8521b8b2-979b-4f1f-ba12-38e89363263c.png">
